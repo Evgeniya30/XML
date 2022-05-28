@@ -1,0 +1,8 @@
+<name>name_bug</name>  
+ <description> description bug </description>  
+<environment> environment  for bug </environment>
+<playback_steps>playback steps </playback_steps>
+<result>result</result>
+<expected_result>expected result</expected_result>
+<attachment> Attachment</attachment>
+
